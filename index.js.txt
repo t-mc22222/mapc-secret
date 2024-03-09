@@ -1,0 +1,17 @@
+// Welcome to our project!
+
+// This readme file contains all the information you need to get started and contribute to the project.
+
+// Feel free to add any additional information or instructions as needed. 
+
+// Happy coding! 
+
+// index.js code will go here
+
+console.log("Hello World!"); // just a sample code to start with
+
+// Add more code here as needed to contribute to the project. 
+
+// Remember to use best coding practices and follow the project guidelines. 
+
+// Thank you for your contribution!
